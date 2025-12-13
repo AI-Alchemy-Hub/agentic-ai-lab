@@ -1,0 +1,22 @@
+# Jekyll configuration for GitHub Pages
+title: Agentic AI Lab
+description: Hands-on lab repository for building and experimenting with agentic AI systems.
+theme: just-the-docs
+
+# URL settings
+url: "https://ai-alchemy-hub.github.io/agentic-ai-lab"
+baseurl: ""
+
+# Navigation order (optional, for sidebar)
+nav_order: 1
+
+# Search functionality
+search_enabled: true
+
+# Color scheme (light/dark toggle)
+color_scheme: light
+
+# Footer customization
+footer_content: "© 2025 AI Alchemy Hub · Licensed under MIT"
+
+ 

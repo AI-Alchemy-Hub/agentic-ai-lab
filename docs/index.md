@@ -32,7 +32,6 @@ GenForge is part of **AI Alchemy Hub**, a collection of repositories designed to
   
 --- 
  
-## Footer
 © 2025 AI Alchemy Hub · Agentic AI Lab  
 Licensed under the MIT License.  
 Part of the AI Alchemy Hub ecosystem. 

@@ -19,31 +19,28 @@ Clone the repo and follow the setup instructions in the [README](../README.md).
 
 ---
 
-## Footer
-© 2025 AI Alchemy Hub · Agentic AI Lab  
-Licensed under the MIT License.  
-Part of the AI Alchemy Hub ecosystem.
- 
 
-
-
-## 🔹 Step 2: Commit and push
-Inside `/c/AI-Alchemy-Hub/agentic-ai-lab`:
+## Getting Started
+Clone the repository and set up your environment:
 
 ```bash
-git add .
-git commit -m "Initial scaffold with README, LICENSE, docs, and Pages config"
-git push -u origin master   # or main, depending on your branch
+git clone https://github.com/AI-Alchemy-Hub/agentic-ai-lab.git
+cd genforge
+python -m venv venv
+source venv/bin/activate   # Linux/macOS
+venv\Scripts\activate      # Windows
+pip install -r requirements.txt
 ```
 
 ---
 
-## 🔹 Step 3: Enable GitHub Pages
-- Go to **Settings → Pages**  
-- Source: `master` (or `main`) branch → `/docs` folder  
-- Save → wait ~1–2 minutes  
-- Site will be live at:  
-  **https://ai-alchemy-hub.github.io/agentic-ai-lab/**
+## About AI Alchemy Hub
+GenForge is part of **AI Alchemy Hub**, a collection of repositories designed to empower learners and professionals with reproducible GenAI workflows, agentic AI labs, and prompt engineering resources.
+  
+--- 
+ 
 
----
-
+## Footer
+© 2025 AI Alchemy Hub · Agentic AI Lab  
+Licensed under the MIT License.  
+Part of the AI Alchemy Hub ecosystem. 

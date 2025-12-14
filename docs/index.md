@@ -15,12 +15,6 @@ It provides reproducible scaffolds and exercises for designing agentic workflows
 ---
 
 ## Getting Started
-Clone the repo and follow the setup instructions in the [README](../README.md).
-
----
-
-
-## Getting Started
 Clone the repository and set up your environment:
 
 ```bash
@@ -31,7 +25,6 @@ source venv/bin/activate   # Linux/macOS
 venv\Scripts\activate      # Windows
 pip install -r requirements.txt
 ```
-
 ---
 
 ## About AI Alchemy Hub
@@ -39,7 +32,6 @@ GenForge is part of **AI Alchemy Hub**, a collection of repositories designed to
   
 --- 
  
-
 ## Footer
 © 2025 AI Alchemy Hub · Agentic AI Lab  
 Licensed under the MIT License.  
